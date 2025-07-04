@@ -50,6 +50,14 @@ Below are visual previews from the Power BI dashboard (located in `/images` fold
 
 ---
 
+## 🔗 Live Dashboard
+
+You can explore the full interactive Power BI dashboard here:  
+👉 [**View Live Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiN2YzODkwOTktMjllMy00ODEzLTlkYTItZGI5NTE3YmE2YjI0IiwidCI6IjFiMGY2ZDU2LTBkOTEtNDZiNy04NzFiLTBmNzljNzJhYmYxZiIsImMiOjEwfQ%3D%3D&pageName=c53eadf00c2599e1a256)
+
+> *(Hosted on Power BI Service – no login required for view access)*
+
+
 ## 📂 Data Sources
 
 - 🌐 **Female Primary Completion Rate**:  
